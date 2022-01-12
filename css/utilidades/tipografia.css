@@ -2,7 +2,7 @@
     font: 600 0.75rem/1.35 "Poppins", sans-serif;
 }
 .font-2-s{
-    font: 400 0.87rem/1.43 "Roboto", sans-serif;
+    font: 400 1rem/1.43 "Roboto", sans-serif;
 }
 
 .font-1-s{
@@ -23,6 +23,7 @@
     font-size: 1.5rem;
     text-transform: uppercase;
     line-height: 1.5;
+    font-family: "Roboto", sans-serif;
 
 }
 
